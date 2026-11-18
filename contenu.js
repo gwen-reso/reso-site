@@ -18,11 +18,11 @@
 /* Adresses e-mail affichées sur le site.
    contact   → bloc « Nous écrire » de toutes les pages (labels, artistes, management)
    createurs → formulaire « Rejoindre le réseau » de l'espace créateur·ice·s
-   contact@reso-digital.fr existe (groupe Google, arrive chez Gwen et Anthony). Adresse créateur·ice·s : à créer
+   contact@reso-digital.fr existe (groupe Google, arrive chez Gwen et Anthony). Adresse créateur·ice·s : createur@reso-digital.fr (groupe Google, arrive chez Gwen et Anthony)
    d'abord dans Google Workspace (alias ou groupe) avant de les mettre ici. */
 window.EMAILS = {
   contact: "contact@reso-digital.fr",
-  createurs: "contact@reso-digital.fr"
+  createurs: "createur@reso-digital.fr"
 };
 
 /* Commission RÉSO, en % du budget HT — la même pour tous les clients. */
