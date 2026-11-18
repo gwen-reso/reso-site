@@ -22,7 +22,7 @@
    d'abord dans Google Workspace (alias ou groupe) avant de les mettre ici. */
 window.EMAILS = {
   contact: "contact@reso-digital.fr",
-  createurs: "gwen@reso-digital.fr"
+  createurs: "contact@reso-digital.fr"
 };
 
 /* Commission RÉSO, en % du budget HT — la même pour tous les clients. */
