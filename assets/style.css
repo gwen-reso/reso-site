@@ -1067,3 +1067,8 @@ a.cas-lev:hover{background:var(--ambre)}
 .reseau-chiffre .reseau-modele{font:400 13px/1.6 var(--mono);opacity:.8}
 .reseau-chiffre .reseau-modele b{display:inline;font:inherit;color:var(--ambre);letter-spacing:0}
 @media (max-width:900px){.reseau-grid{grid-template-columns:1fr;align-items:start;row-gap:44px}}
+
+/* contact créateur·ice·s (18/11) */
+.contact-createurs{margin:18px 0 0;font:400 14px/1.5 var(--mono);opacity:.9}
+.contact-createurs a,.faq-contact a{color:inherit;text-decoration:underline;text-underline-offset:3px}
+.faq-contact{margin:20px 0 0;font:400 15px/1.55 var(--text);max-width:22em}
